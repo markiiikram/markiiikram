@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markiiikram
-- 👀 I’m interested in web accessibility, web performance, ux testing on real networks and devices... design systems are pretty cool too, i guess
+- 👀 I’m interested in web accessibility, web performance, ux testing on real networks and devices... design systems are pretty cool too
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me visit my [LinkedIn](https://www.linkedin.com/in/markisveen/)
